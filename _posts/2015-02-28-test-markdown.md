@@ -91,13 +91,6 @@ plt.plot(x, y)
 ```
 
 
-
-
-    [<matplotlib.lines.Line2D at 0x11b0d5f98>]
-
-
-
-
 ![png](/_posts/Mine_Numpy_exercises_1_51_1.png)
 
 
