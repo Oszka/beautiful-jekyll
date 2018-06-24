@@ -89,7 +89,7 @@ y = [5,4,3,2,1]
 ```python
 plt.plot(x, y)
 ```
-
+jhvjhvj
 
 ![png](/img/Mine_Numpy_exercises_1_51_1.png)
 
