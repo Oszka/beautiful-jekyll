@@ -71,3 +71,33 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+
+
+```python
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
+
+```python
+x = [1,2,3,4,5]
+y = [5,4,3,2,1]
+```
+
+
+```python
+plt.plot(x, y)
+```
+
+
+
+
+    [<matplotlib.lines.Line2D at 0x11b0d5f98>]
+
+
+
+
+![png](Mine_Numpy_exercises_1_files/Mine_Numpy_exercises_1_51_1.png)
+
+
