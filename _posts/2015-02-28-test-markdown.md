@@ -98,6 +98,6 @@ plt.plot(x, y)
 
 
 
-![png](Mine_Numpy_exercises_1_files/Mine_Numpy_exercises_1_51_1.png)
+![png](Mine_Numpy_exercises_1_51_1.png)
 
 
