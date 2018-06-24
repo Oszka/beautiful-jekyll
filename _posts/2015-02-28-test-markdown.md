@@ -91,6 +91,6 @@ plt.plot(x, y)
 ```
 
 
-![png](/_posts/Mine_Numpy_exercises_1_51_1.png)
+![png](/img/Mine_Numpy_exercises_1_51_1.png)
 
 
